@@ -1,3 +1,5 @@
+#PNEUMNIA-PREDICTOR
+
 Overview:
 
 This project leverages the Random Forest algorithm to detect pneumonia from medical image data. Using a large dataset of chest X-ray images, the model classifies images into categories indicative of pneumonia or healthy conditions. This predictive model aims to aid in early detection, contributing to quicker diagnosis and treatment.
